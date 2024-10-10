@@ -1,3 +1,5 @@
-# KodeloftetG11undersvisning4
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Martialcart/KodeloftetG11undersvisning4)
+# Template Guide
+ 
+ *Header: Logo, søkefelt, innlogging og navigasjon
+ *main: ulike seksjoner for ulike inforamsjons fremheving
+ *footer: Sosial medier, navigasjon, kreditasjon og personvern(offentlige sider)
